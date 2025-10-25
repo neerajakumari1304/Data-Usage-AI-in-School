@@ -1,12 +1,11 @@
 # 🏫 Data Usage AI in School: Power BI Dashboard
-Built a dynamic Power BI dashboard to visualize and analyze sales performance across multiple regions and product categories. The project focused on transforming raw data into actionable insights for business decision-making.
 
 ## 📌 Overview
-This project presents a Power BI dashboard that analyzes how students engage with AI assistance tools in an educational setting. It provides insights into session outcomes, student levels, task types, and overall usage patterns to help schools optimize digital learning support.
+This project presents a Power BI dashboard that analyzes student engagement with AI assistance tools in an educational setting. It provides insights into session outcomes, student levels, task types, and overall usage patterns to help schools optimize digital learning support.
 
 ## 📊 Dashboard Highlights
 - **Final Outcomes by AI Assistance Level**  
-  Visualizes how students responded to AI help: *Used Again*, *Idea Drafted*, *Confused*, or *Gave Up*.
+  Tracks how students responded to AI help: *Used Again*, *Idea Drafted*, *Confused*, or *Gave Up*.
 
 - **Student Level vs Final Outcome**  
   Compares engagement across *Undergraduate*, *High School*, and *Graduate* levels.
@@ -17,17 +16,15 @@ This project presents a Power BI dashboard that analyzes how students engage wit
 - **Aggregate Metrics by Student Level**  
   Includes session length, satisfaction rating, prompt count, and assistance level totals.
 
-## 🛠️ Tech Stack
+## 🛠️ Tools Used
 - Power BI
-- MS Excel
-- Python (for preprocessing, optional)
-- SQL (for structured data queries)
+- Microsoft Excel
 
 ## 💡 Skills Demonstrated
-- Data modeling and transformation in Power BI
-- Interactive dashboard design
-- Analytical storytelling with visual insights
-- Educational data interpretation and reporting
+- Data cleaning and transformation using Power Query
+- Dashboard design and layout optimization
+- Interactive visualizations and filters
+- Analytical storytelling with educational data
 
 ## 📈 Impact
 Helps educators and administrators:
@@ -43,9 +40,3 @@ Helps educators and administrators:
 2. Connect to the Excel data source
 3. Explore filters and visuals to analyze student engagement
 4. Customize metrics or add new dimensions as needed
-
-## 👩‍💻 Author
-**Neeraja**  
-Bachelor of Computer Applications (BCA)  
-Gayatri Institute of Science and Technology  
-Skills: Power BI, Python, SQL, MS Excel, Data Analytics
